@@ -1,0 +1,13 @@
+.wrapp {
+    padding: 16px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+  
+.author {
+    font-weight: bold;
+}
+  
+.text {
+    color: grey;
+}

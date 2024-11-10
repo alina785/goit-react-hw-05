@@ -1,0 +1,15 @@
+.list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+  
+.link {
+    color: grey;
+    text-decoration: none;
+}
+  
+.link:hover {
+    color: rgb(135, 70, 103);
+    text-decoration: underline;
+}
